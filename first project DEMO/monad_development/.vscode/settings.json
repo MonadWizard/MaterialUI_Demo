@@ -4,6 +4,7 @@
 
     // "editor.fontFamily": "'Operator Mono' , 'Fira Code' ", //'Fira Code', 'Operator Mono', 'Operator Mono Lig'
     // "editor.fontLigatures": true,
+    "editor.quickSuggestions.comments": true,
 
     // config related to code formatting
     "editor.defaultFormatter": "esbenp.prettier-vscode",
